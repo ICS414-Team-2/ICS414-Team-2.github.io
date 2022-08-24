@@ -24,7 +24,7 @@ The team contract can be found [here](https://docs.google.com/document/d/1d5hWC9
 - [Ethan Chee](https://ethancheez.github.io/)
 - [Larissa Tsai](https://larissa-tsai.github.io/)
 - [Sola Takahashi](https://soratsky.github.io/)
-- [Edalaine Cadiena]
+- [Edalaine Cadiena](https://ecadiena.github.io/)
 - [Ian Manzano](https://ianbm.github.io/)
 - [Cris Javier](https://crisjavier.github.io/)
 - [Cole Amparo](https://coleamparo.github.io/)
