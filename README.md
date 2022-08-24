@@ -1,1 +1,1 @@
-# ICS414-Team-2.github.io
+# ICS414 Team 2
