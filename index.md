@@ -23,6 +23,6 @@ The team contract can be found [here](https://docs.google.com/document/d/1d5hWC9
 - [Sola Takahashi](https://soratsky.github.io/)
 - [Edalaine Cadiena]
 - [Ian Manzano](https://ianbm.github.io/)
-- [Cris Javier]
+- [Cris Javier](https://crisjavier.github.io/)
 - [Cole Amparo](https://coleamparo.github.io/)
 - [Adam Parrilla](https://adamjparrilla.github.io/)
