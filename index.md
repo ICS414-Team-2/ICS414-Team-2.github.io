@@ -1,3 +1,5 @@
+# ICS414 Team 2
+
 # Table of Contents
 - [Overview](#overview)
 - [Developer Guide](#developer-guide)
