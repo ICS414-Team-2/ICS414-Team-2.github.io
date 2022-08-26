@@ -14,6 +14,55 @@ The Hawaii Department of Education has an outdated legislative tracking system (
 ### The Solution
 Our solution is to make a tracker that encompasses the required “Key Components” outlined in the sections of the home page. For example, we will add these features to: Add, Remove, and Store bills, the ability to sort the viewed bills by preference of user, and have notifications sent out via email that the user has signed up with. A potential feature to be suggested is a new in-client mailbox/notification system. The New LTS will increase the clarity and legibility of the previous system by eliminating unnecessary clutter and allow for easier navigation of the web page to the user. Overall our solution and or goal is to **enable HIDOE to track legislation and set up workflow processes more efficiently and accurately than before.** 
 
+
+## Mockup Pages 
+
+### Login Page 
+
+![](images/login.png)
+
+### Homescreen Page 
+
+![](images/homescreen.png)
+
+### Filter Results Page
+
+![](images/filteredresults.png)
+
+### Bill Information Page 
+
+![](images/BillInfo.png)
+
+### Add Bill Page 
+
+![](images/addbill.png)
+
+### Edit Bill Page 
+
+![](images/editbill.png)
+
+### Remove Bill Page 
+
+![](images/removebill.png)
+
+### Confirm Add Page
+
+![](images/confirmadd.png)
+
+### Confirm Edit Page
+
+![](images/confirmedit.png)
+
+### Confirm Remove Page 
+
+![](images/confirmremove.png)
+
+### Email Page 
+
+![](images/email.png)
+
+
+
 ## Developer Guide
 
 ### Installation
