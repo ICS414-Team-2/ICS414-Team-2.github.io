@@ -29,4 +29,4 @@ The team contract can be found [here](https://docs.google.com/document/d/1d5hWC9
 - [Cris Javier](https://crisjavier.github.io/)
 - [Cole Amparo](https://coleamparo.github.io/)
 - [Adam Parrilla](https://adamjparrilla.github.io/)
-- [Michael Pierce]
+- [Michael Pierce]()
