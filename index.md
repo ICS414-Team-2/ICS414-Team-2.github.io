@@ -1,22 +1,24 @@
-# Table of Contents
+# Hawaii DoE Legislative Tracker
+
+## Table of Contents
 - [Overview](#overview)
 - [Developer Guide](#developer-guide)
 - [Contract](#contract)
 - [Meet the Developers](#meet-the-developers)
 
-# Overview
+## Overview
 
 ### The Problem
 
 ### The Solution
 
-# Developer Guide
+## Developer Guide
 
-# Contract
+## Contract
 
 The team contract can be found [here](https://docs.google.com/document/d/1d5hWC9UI-d54y6Xm_KRcY7tM6J-MPeAJtlEd1LMBdyI/edit?usp=sharing)
 
-# Meet the Developers
+## Meet the Developers
 
 - [Ethan Chee](https://ethancheez.github.io/)
 - [Larissa Tsai](https://larissa-tsai.github.io/)
