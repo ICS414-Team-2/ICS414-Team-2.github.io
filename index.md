@@ -5,6 +5,7 @@
 - [Developer Guide](#developer-guide)
 - [Contract](#contract)
 - [Meet the Developers](#meet-the-developers)
+- [User Stories](#user-stories)
 
 ## Overview
 
@@ -111,6 +112,9 @@ Ignore “bcrypt warning”: Bcrypt is used for password checking and it is safe
 $ meteor reset
 ```
 
+## User Stories
+
+User stories can be found [here](https://github.com/orgs/hidoe-legistracker/discussions/24)
 
 ## Contract
 
