@@ -24,6 +24,7 @@ Our solution is to make a tracker that encompasses the required “Key Component
 
 ### Homescreen/Directory Page 
 
+![](images/hidoe-legistracker-directory.png)
 
 ### View Bill Page
 
