@@ -30,6 +30,10 @@ Our solution is to make a tracker that encompasses the required “Key Component
 
 ![](images/hidoe-legistracker-viewbill.png)
 
+### View Testimony Page
+
+![](images/hidoe-legistracker-viewtestimony.png)
+
 ### Create Testimony Page
 
 ![](images/hidoe-legistracker-createtestimony.png)
