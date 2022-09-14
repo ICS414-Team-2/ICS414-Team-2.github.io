@@ -20,47 +20,36 @@ Our solution is to make a tracker that encompasses the required “Key Component
 
 ### Login Page 
 
-![](images/login.png)
+![](images/hidoe-legistracker-login.png)
 
-### Homescreen Page 
+### Homescreen/Directory Page 
 
-![](images/homescreen.png)
+![](images/hidoe-legistracker-directory.png)
 
-### Filter Results Page
+### View Bill Page
 
-![](images/filteredresults.png)
+![](images/hidoe-legistracker-viewbill.png)
 
-### Bill Information Page 
+### Create Testimony Page
 
-![](images/BillInfo.png)
+![](images/hidoe-legistracker-createtestimony.png)
+![](images/hidoe-legistracker-createtestimony2.png)
 
-### Add Bill Page 
+### Profile Page 
 
-![](images/addbill.png)
+![](images/hidoe-legistracker-profile.png)
 
-### Edit Bill Page 
+### Inbox Page 
 
-![](images/editbill.png)
+![](images/hidoe-legistracker-inbox.png)
 
-### Remove Bill Page 
+### Create Email Page
 
-![](images/removebill.png)
+![](images/hidoe-legistracker-createEmail.png)
 
-### Confirm Add Page
+### Folders Page
 
-![](images/confirmadd.png)
-
-### Confirm Edit Page
-
-![](images/confirmedit.png)
-
-### Confirm Remove Page 
-
-![](images/confirmremove.png)
-
-### Email Page 
-
-![](images/email.png)
+![](images/hidoe-legistracker-folders.png)
 
 
 
