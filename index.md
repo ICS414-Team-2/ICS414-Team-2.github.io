@@ -39,6 +39,12 @@ Our solution is to make a tracker that encompasses the required “Key Component
 ![](images/hidoe-legistracker-createtestimony.png)
 ![](images/hidoe-legistracker-createtestimony2.png)
 
+### Monitoring Report Page
+
+![](images/hidoe-legistracker-monitoringreport1.png)
+![](images/hidoe-legistracker-monitoringreport2.png)
+![](images/hidoe-legistracker-monitoringreport3.png)
+
 ### Profile Page 
 
 ![](images/hidoe-legistracker-profile.png)
