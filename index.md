@@ -26,6 +26,10 @@ Our solution is to make a tracker that encompasses the required “Key Component
 
 ![](images/hidoe-legistracker-directory.png)
 
+### Create Measure Page
+
+![](images/hidoe-legistracker-createMeasure.png)
+
 ### View Bill Page
 
 ![](images/hidoe-legistracker-viewbill.png)
@@ -61,6 +65,9 @@ Our solution is to make a tracker that encompasses the required “Key Component
 
 ![](images/hidoe-legistracker-folders.png)
 
+### Employee List Page
+
+![](images/hidoe-legistracker-employeeList.png)
 
 
 ## Developer Guide
