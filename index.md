@@ -29,15 +29,11 @@ The Hawaii DOE Legislative Bill Tracker is currently under development.
 
 ### Homescreen/Directory Page 
 
-![](images/hidoe-legistracker-directory.png)
-
-### Create Measure Page
-
-![](images/hidoe-legistracker-createMeasure.png)
+![](images/directory.png)
 
 ### View Bill Page
 
-![](images/hidoe-legistracker-viewbill.png)
+![](images/view-bill.png)
 
 ### View Testimony Page
 
@@ -45,22 +41,23 @@ The Hawaii DOE Legislative Bill Tracker is currently under development.
 
 ### Create Testimony Page
 
-![](images/hidoe-legistracker-createtestimony.png)
-![](images/hidoe-legistracker-createtestimony2.png)
+![](images/create-testimony.png)
 
 ### Monitoring Report Page
 
-![](images/hidoe-legistracker-monitoringreport1.png)
-![](images/hidoe-legistracker-monitoringreport2.png)
-![](images/hidoe-legistracker-monitoringreport3.png)
+![](images/monitoring-report.png)
+
+### Calendar Page
+
+![](images/calendar.png)
 
 ### Profile Page 
 
-![](images/hidoe-legistracker-profile.png)
+![](images/profile.png)
 
 ### Inbox Page 
 
-![](images/hidoe-legistracker-inbox.png)
+![](images/inbox.png)
 
 ### Create Email Page
 
@@ -68,12 +65,16 @@ The Hawaii DOE Legislative Bill Tracker is currently under development.
 
 ### Folders Page
 
-![](images/hidoe-legistracker-folders.png)
+![](images/add-folder.png)
+![](images/bills-folder.png)
 
 ### Employee List Page
 
-![](images/hidoe-legistracker-employeeList.png)
+![](images/employee-list.png)
 
+### Register New User Page
+
+![](images/register-new-user.png)
 
 ## Developer Guide
 
